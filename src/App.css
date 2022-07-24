@@ -1,0 +1,66 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  box-sizing: border-box;
+  background-color: lightblue;
+  color: black;
+}
+
+.input{
+  width: 100vw;
+  height: 30vh;  
+}
+input{
+  height: 5vh;
+  margin-top: 2vh;
+}
+
+label{
+  height: 5vh;
+font-size: large;
+font-weight: bold;
+}
+
+.buttons{
+  width: 60vw;
+  height: 30vh;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+button{
+  width: 10rem;
+  height: 5rem;
+  border-radius: 50%;
+  border: none;
+  background-color: rgb(236, 89, 89);
+  color: antiquewhite;
+  font-size:1.2rem;
+  font-weight: bold;
+}
+.popup{
+  width: 50vw;
+  height: 50vh;
+  position:absolute;
+  top: 25vh;
+  left: 25vw;
+  background-color: darkorchid;
+  color: rgb(44, 12, 12);
+  text-align: center;
+}
+
+.heading{
+  width: 100vw;
+  height: 10vh;
+  font-size: x-large;
+  font-weight: bold;
+
+}
+.res{
+  width: 100vw;
+  height: 10vh;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
