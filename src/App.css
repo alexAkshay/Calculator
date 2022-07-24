@@ -40,16 +40,7 @@ button{
   font-size:1.2rem;
   font-weight: bold;
 }
-.popup{
-  width: 50vw;
-  height: 50vh;
-  position:absolute;
-  top: 25vh;
-  left: 25vw;
-  background-color: darkorchid;
-  color: rgb(44, 12, 12);
-  text-align: center;
-}
+
 
 .heading{
   width: 100vw;
